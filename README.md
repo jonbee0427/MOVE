@@ -40,8 +40,8 @@ In this pandemic situation where people can't go out freely due to the COVID-19,
 ### MOVE! video link
 > https://youtu.be/Gmpm6iShmMo
 
-### MOVE! apk download link
-> https://tinyurl.com/move-app-apk-download
+### MOVE! android download link
+> https://play.google.com/store/apps/details?id=com.team.move
 
 ### For any comments or questions
 > Please feel free to contact us through our email. 😊   
